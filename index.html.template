@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Talks Event - March 28, 2026</title>
+    <style id="inlined-css"></style>
+</head>
+<body>
+    <header>
+        <h1>Tech Talks Day</h1>
+        <p>March 28, 2026</p>
+        <div class="search-container">
+            <input type="text" id="categorySearch" placeholder="Search by category..." aria-label="Search talks by category">
+        </div>
+    </header>
+    <main>
+        <div id="schedule" class="schedule-container">
+            <!-- Schedule will be rendered here -->
+        </div>
+    </main>
+    <script id="inlined-script"></script>
+</body>
+</html>
